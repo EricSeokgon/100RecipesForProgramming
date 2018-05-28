@@ -21,7 +21,6 @@ public class StringToNum {
             arrNum1[j] = arrNum[k];
             j++;
         }
-
         StringToNum stn = new StringToNum();
         String output = "";
         switch (len) {
