@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class number {
     public static void main(String[] args) {
 
-
         int a;
         int u, t, h, th;
         Scanner sc = new Scanner(System.in);
